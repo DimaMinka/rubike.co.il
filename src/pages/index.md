@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: RuBike
-image: /img/home-jumbotron.jpg
+image: /img/tim-foster-vzvynom6k6c-unsplash.jpg
 heading: Обсуждение  в Телеграм
 subheading: блог путешествий на горных велосипедах по Израилю
 mainpitch:
